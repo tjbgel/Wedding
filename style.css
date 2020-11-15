@@ -1,1 +1,7 @@
 body {background-color: black;}
+#centerwrap { 
+     position: absolute;
+    top: 0px;
+    left: 50%;
+    margin-left: -500px; 
+    }   
