@@ -1,1 +1,1 @@
-<div style="margin:0 auto;width:100%;height:930px;overflow:hidden;">[googleapps domain="docs" dir="presentation/d/e/2PACX-1vSglSOdFMwxm03a-kzjM0EU_HanNqwlQcb2NVgxwjACNWP-Me6uHC58hZBgtjIGQA/embed" query="start=false&amp;loop=false&amp;delayms=3000" width="960" height="960" /]</div>
+<div style="margin:0 auto;width:100%;height:930px;overflow:hidden;"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSglSOdFMwxm03a-kzjM0EU_HanNqwlQcb2NVgxwjACNWP-Me6uHC58hZBgtjIGQA/embed?start=false&loop=false&delayms=3000" width="960" height="960"</iframe></div>
